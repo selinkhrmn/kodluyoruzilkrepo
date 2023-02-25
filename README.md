@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruzda ödev yapıyorum.
-Ekran görüntüsü_20230226_011627.png
+<<img src="Ekran görüntüsü_20230226_011627.png" alt="resme alternatif yazı">
