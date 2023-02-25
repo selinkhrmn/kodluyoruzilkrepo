@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-ednj
+Kodluyoruzda ödev yapıyorum.
