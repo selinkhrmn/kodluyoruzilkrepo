@@ -1,3 +1,5 @@
 # kodluyoruzilkrepo
 Kodluyoruzda ödev yapıyorum.
-<img src="Ekran görüntüsü_20230226_011627.png" alt="resme alternatif yazı">
+<picture>
+        <source media="(min-width: 800px)" srcset="Ekran görüntüsü_20230226_011627.png">
+    </picture>
